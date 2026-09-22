@@ -22,3 +22,7 @@
 - GitHub: [@Danila990087](https://github.com/Danila990087)
 
 > Этот сайт опубликован с помощью GitHub Pages.
+
+## Результаты заданий
+
+Все результаты собраны в этом репозитории: [описание Issue, Pull Request и публикации](PROJECTS.md).
