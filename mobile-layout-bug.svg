@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect width="390" height="844" fill="#fff"/>
+<rect width="390" height="70" fill="#1f2937"/><text x="20" y="44" font-family="Arial" font-size="24" fill="#fff">Company Landing</text>
+<rect x="20" y="100" width="350" height="320" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+<path d="M20 420 L140 250 L220 340 L290 210 L370 420Z" fill="#93c5fd"/><circle cx="300" cy="170" r="45" fill="#fbbf24"/>
+<rect x="15" y="260" width="360" height="90" fill="#fff" stroke="#dc2626" stroke-width="3"/>
+<text x="28" y="290" font-family="Arial" font-size="18" fill="#111827">Our services help businesses grow</text>
+<text x="28" y="325" font-family="Arial" font-size="17" fill="#dc2626">Text overlaps the hero image on mobile</text>
+<text x="20" y="475" font-family="Arial" font-size="18" fill="#16a34a">Expected: text stays inside its block</text>
+<text x="20" y="515" font-family="Arial" font-size="18" fill="#dc2626">Actual: image covers part of the text</text>
+<text x="20" y="800" font-family="Arial" font-size="16" fill="#6b7280">Viewport: 390 x 844 px</text>
+</svg>
